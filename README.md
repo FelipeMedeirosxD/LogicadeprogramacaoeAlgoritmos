@@ -1,24 +1,26 @@
 # 🧠 Lógica de Programação e Algoritmos em Python  
 
-Olá! 👋 Seja bem-vindo(a) ao repositório das minhas aulas de **Lógica de Programação e Algoritmos em Python**! 🚀  
+Olá! 👋 Seja bem-vindo(a) ao repositório das minhas aulas de Lógica de Programação e Algoritmos em Python! 🚀
 
-Se você quer dar os primeiros passos no mundo da programação ou aprimorar sua capacidade de resolver problemas computacionais, este material é para você! Vamos explorar desde os conceitos mais básicos até desafios mais avançados, sempre com foco na prática e na aplicação real.  
+Se você quer dar os primeiros passos no mundo da programação ou aprimorar sua capacidade de resolver problemas computacionais, este material é para você! Vamos explorar desde os conceitos mais básicos até desafios mais avançados, sempre com foco na prática e na aplicação real.
+
+---
 
 ## 📌 O que você vai aprender?  
-Aqui, você encontrará um conteúdo estruturado para ajudar a desenvolver sua lógica de programação e fortalecer suas habilidades com **Python**, uma das linguagens mais versáteis e utilizadas atualmente.  
+Este repositório contém materiais, exercícios e exemplos para desenvolver suas habilidades em **lógica de programação** e **algoritmos**. Vamos abordar:  
 
 ✅ Estruturas básicas da programação  
 ✅ Operadores e expressões lógicas  
 ✅ Estruturas condicionais e de repetição  
 ✅ Funções e modularização  
-✅ Estruturas de dados básicas (listas, tuplas, dicionários)  
-✅ Algoritmos clássicos e boas práticas de codificação  
-✅ Exercícios práticos e desafios para reforçar o aprendizado  
+✅ Estruturas de dados (listas, dicionários, tuplas)  
+✅ Algoritmos clássicos e boas práticas  
+✅ Exercícios e desafios práticos  
 
----  
+---
 
 ## 📚 Estrutura das Aulas  
-O curso é dividido em **10 aulas**, cada uma abordando um tema essencial para desenvolver uma base sólida em lógica de programação e algoritmos.  
+As aulas são organizadas de forma progressiva para facilitar seu aprendizado.  
 
 ### 🏆 **Lista de Aulas**  
 
@@ -98,8 +100,6 @@ Para acompanhar as aulas e rodar os exemplos, você precisará de:
 ## 📢 Vamos aprender juntos!  
 A programação é uma jornada incrível, e eu estou aqui para te ajudar nesse caminho! Se tiver qualquer dúvida, sugestão ou quiser compartilhar seu progresso, fique à vontade para entrar em contato.  
 
-💬 **Contato:** [Seu e-mail ou LinkedIn]  
-
 📢 **Sugestão:** Se você quiser contribuir com melhorias ou adicionar desafios extras ao repositório, toda ajuda é bem-vinda! 🚀  
 
-Bons estudos e bora codar! 🔥💻  
+Bons estudos e bora codar! 🔥💻
