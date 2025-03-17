@@ -1,6 +1,7 @@
 # 🧠 Lógica de Programação e Algoritmos em Python  
 
 Olá! 👋 Seja bem-vindo(a) ao repositório das minhas aulas de Lógica de Programação e Algoritmos em Python! 🚀
+
 Essas aulas forma utilizadas para ministrar a disciplina de mesmo nome para o curso Técnico em Desenvolvimento de Sistemas e Técnico em Informática.
 Se você quer dar os primeiros passos no mundo da programação ou aprimorar sua capacidade de resolver problemas computacionais, este material é para você! 
 Vamos explorar desde os conceitos mais básicos até desafios mais avançados, sempre com foco na prática e na aplicação real.
